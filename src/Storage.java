@@ -49,4 +49,5 @@ public class Storage {
     public static void stopProject() {
         System.out.println("You left the school project !!!");
     }
+    //
 }
